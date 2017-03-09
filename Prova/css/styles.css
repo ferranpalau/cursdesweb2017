@@ -1,0 +1,17 @@
+div.cities {
+	background-color: black;
+	color: white;
+	margin: 20px 0 20px 0;
+	padding: 20px;
+} 	
+span.country {
+    color: red;
+    border-width:10px;  
+    border-style:ridge;
+    border-left-color: #ff0000;
+    border-radius:18px;
+} 
+div p{color:red;}
+.verd{
+	color:green;
+}
